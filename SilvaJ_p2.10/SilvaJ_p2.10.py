@@ -51,7 +51,7 @@ print("Probability (in percent) of most probable macrostate P= %f" % perc_prob )
 #Least probable macrostate:
 minvalue = min(omegaTotal)
 qAprob_l=omegaTotal.index(minvalue)
-qBprob_l=100-qAprob
+qBprob_l=100-qAprob_l
 
 print("The least probable macrostate, qA= %d" % qAprob_l)
 print("The least probable macrostate, qB= %d" % qBprob_l)

@@ -1,3 +1,11 @@
+Problem 2.10 from Thermal Physics -- 
+This code:
+1) Calculates multiplicity of energy levels for two Einstein solids. 
+2) Prints a table for all possible states
+3) Plots number of systems in each macrostate (qA vs. total multiplicity)
+4) Calculates most probable macrostate (and how probable)
+5) Calculates least probable macrostate (and how probable)
+
 All values calculated in the code attached 'SilvaJ_p2.10.py'
 
 A table (output of my code):
